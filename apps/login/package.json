@@ -54,7 +54,7 @@
     "react-hook-form": "^7.75.0",
     "server-only": "^0.0.1",
     "tinycolor2": "^1.6.0",
-    "uuid": "^14.0.0",
+    "uuid": "^14.0.1",
     "winston": "^3.19.0"
   },
   "devDependencies": {
@@ -86,7 +86,7 @@
     "concurrently": "^9.2.1",
     "dotenv-cli": "^11.0.0",
     "env-cmd": "^11.0.0",
-    "esbuild": "^0.28.0",
+    "esbuild": "^0.28.1",
     "eslint": "^10.3.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-import-resolver-typescript": "^4.4.4",
@@ -100,7 +100,7 @@
     "lint-staged": "^16.4.0",
     "node-forge": "^1.4.0",
     "nodemon": "^3.1.14",
-    "postcss": "^8.5.14",
+    "postcss": "^8.5.16",
     "prettier": "^3.8.3",
     "prettier-plugin-organize-imports": "^4.3.0",
     "prettier-plugin-tailwindcss": "^0.8.0",
